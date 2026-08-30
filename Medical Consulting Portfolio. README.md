@@ -15,7 +15,7 @@ IBMS-accredited Biomedical Science student soon-to-be graduating from Oxford Bro
 ***
 ### Project 1
 
-Code =
+Code = [https://github.com/CM-hue-creator/Sinead-Morison-Medical-Consulting-Data-Analytics/blob/f981f17e614b3686d06a422daba7e838fdad23cd/Case%20Study%201.%20READ.m]
 
 Aim/Goal = 
 
