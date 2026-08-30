@@ -15,7 +15,7 @@ IBMS-accredited Biomedical Science student soon-to-be graduating from Oxford Bro
 ***
 ### Project 1
 
-Code = [https://github.com/CM-hue-creator/Sinead-Morison-Medical-Consulting-Data-Analytics/blob/f981f17e614b3686d06a422daba7e838fdad23cd/Case%20Study%201.%20READ.m]
+Code = https://github.com/CM-hue-creator/Sinead-Morison-Medical-Consulting-Data-Analytics/blob/f981f17e614b3686d06a422daba7e838fdad23cd/Case%20Study%201.%20READ.m
 
 Aim/Goal = 
 
@@ -32,7 +32,7 @@ Results =
 ***
 ### Project 2
 
-Code = [https://github.com/CM-hue-creator/Sinead-Morison-Medical-Consulting-Data-Analytics/blob/2268af3d453af8e4baff3926b1fb6fcb6ad48f4f/Case%20Study%202.%20READ.md]
+Code = https://github.com/CM-hue-creator/Sinead-Morison-Medical-Consulting-Data-Analytics/blob/2268af3d453af8e4baff3926b1fb6fcb6ad48f4f/Case%20Study%202.%20READ.md
 
 Aim/Goal = 
 
