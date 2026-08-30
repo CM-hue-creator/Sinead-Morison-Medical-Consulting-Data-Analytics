@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Sinead Morison’s Medical Consulting Portfolio
 Here is my portfolio showcasing my integration with Python and SQL to analyse medical data from my own research and findings. Hope you enjoy my portfolio and learn more about my creative analysis and solutions.
 
