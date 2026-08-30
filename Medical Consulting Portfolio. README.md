@@ -49,7 +49,7 @@ Results =
 ***
 ### Project 3
 
-Code =
+Code = https://github.com/CM-hue-creator/Sinead-Morison-Medical-Consulting-Data-Analytics/blob/34003875eddfcd5bcf222ef7bc5546a229cc1a49/Case%20Study%203.%20READ.md
 
 Aim/Goal = 
 
